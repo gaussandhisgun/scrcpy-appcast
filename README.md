@@ -1,7 +1,7 @@
 # scrcpy-appcast
 A little appcast script for scrcpy
 
-This script is created for users who always wanted to see some of their android apps from phone on their Linux PCs. Screenshots are in assets - because github's markdown does not allow to resize images on-the-go, what a shame.
+This script is created for users who always wanted to see some of their android apps from phone on their Linux PCs. UPD: Works on Cygwin too, if you install scrcpy.exe and adb.exe into cygwin's /bin. Screenshots are in assets - because github's markdown does not allow to resize images on-the-go, what a shame.
 
 Limitations:
 User can only open one app at a time.
